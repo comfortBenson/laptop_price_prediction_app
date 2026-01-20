@@ -4,6 +4,7 @@ Overview:
  Buying a laptop in Nigeria can be challenging due to price volatility and varying hardware configurations. This project uses a Random Forest Regressor to provide an intelligent price estimate by analyzing factors like Brand, RAM, Storage, and CPU/GPU types, converted to Naira using current market exchange rates.The model was trained on a dataset of laptops and their specification.
 
  LIVE DEMO:
+ https://laptoppricepredictionapp-toz7zcbqmyqzbr56ujbeqg.streamlit.app/
 
 Project Structure:
     app.py                # Main Streamlit application
